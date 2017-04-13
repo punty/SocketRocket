@@ -1174,6 +1174,7 @@
 			baseConfigurationReference = 81D647591D2CA6A100690609 /* SocketRocket-iOS-Dynamic.xcconfig */;
 			buildSettings = {
 				MTL_ENABLE_DEBUG_INFO = YES;
+				WARNING_CFLAGS = "";
 			};
 			name = Debug;
 		};
@@ -1182,6 +1183,7 @@
 			baseConfigurationReference = 81D647591D2CA6A100690609 /* SocketRocket-iOS-Dynamic.xcconfig */;
 			buildSettings = {
 				MTL_ENABLE_DEBUG_INFO = NO;
+				WARNING_CFLAGS = "";
 			};
 			name = Release;
 		};
@@ -1191,6 +1193,7 @@
 			buildSettings = {
 				MTL_ENABLE_DEBUG_INFO = YES;
 				TARGETED_DEVICE_FAMILY = 3;
+				WARNING_CFLAGS = "";
 			};
 			name = Debug;
 		};
@@ -1200,6 +1203,7 @@
 			buildSettings = {
 				MTL_ENABLE_DEBUG_INFO = NO;
 				TARGETED_DEVICE_FAMILY = 3;
+				WARNING_CFLAGS = "";
 			};
 			name = Release;
 		};
@@ -1207,6 +1211,7 @@
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = 81D6475A1D2CA6A100690609 /* SocketRocket-iOS.xcconfig */;
 			buildSettings = {
+				WARNING_CFLAGS = "";
 			};
 			name = Debug;
 		};
@@ -1214,6 +1219,7 @@
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = 81D6475A1D2CA6A100690609 /* SocketRocket-iOS.xcconfig */;
 			buildSettings = {
+				WARNING_CFLAGS = "";
 			};
 			name = Release;
 		};
@@ -1221,6 +1227,7 @@
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = 81E8A69A1D4C417A00916C7E /* TestChat-iOS.xcconfig */;
 			buildSettings = {
+				WARNING_CFLAGS = "";
 			};
 			name = Debug;
 		};
@@ -1228,6 +1235,7 @@
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = 81E8A69A1D4C417A00916C7E /* TestChat-iOS.xcconfig */;
 			buildSettings = {
+				WARNING_CFLAGS = "";
 			};
 			name = Release;
 		};
@@ -1236,6 +1244,7 @@
 			baseConfigurationReference = 81D6475B1D2CA6A100690609 /* SocketRocket-macOS.xcconfig */;
 			buildSettings = {
 				COMBINE_HIDPI_IMAGES = YES;
+				WARNING_CFLAGS = "";
 			};
 			name = Debug;
 		};
@@ -1244,6 +1253,7 @@
 			baseConfigurationReference = 81D6475B1D2CA6A100690609 /* SocketRocket-macOS.xcconfig */;
 			buildSettings = {
 				COMBINE_HIDPI_IMAGES = YES;
+				WARNING_CFLAGS = "";
 			};
 			name = Release;
 		};
@@ -1265,6 +1275,7 @@
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = 81D6475D1D2CA6A100690609 /* SocketRocketTests-iOS.xcconfig */;
 			buildSettings = {
+				WARNING_CFLAGS = "";
 			};
 			name = Debug;
 		};
@@ -1272,6 +1283,7 @@
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = 81D6475D1D2CA6A100690609 /* SocketRocketTests-iOS.xcconfig */;
 			buildSettings = {
+				WARNING_CFLAGS = "";
 			};
 			name = Release;
 		};
